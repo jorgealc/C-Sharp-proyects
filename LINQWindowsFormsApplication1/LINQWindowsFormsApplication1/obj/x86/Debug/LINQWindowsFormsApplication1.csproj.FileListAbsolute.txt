@@ -1,0 +1,14 @@
+C:\Users\Jorge\AppData\Local\Temporary Projects\LINQWindowsFormsApplication1\bin\Debug\LINQWindowsFormsApplication1.exe
+C:\Users\Jorge\AppData\Local\Temporary Projects\LINQWindowsFormsApplication1\bin\Debug\LINQWindowsFormsApplication1.pdb
+C:\Users\Jorge\AppData\Local\Temporary Projects\LINQWindowsFormsApplication1\obj\x86\Debug\LINQWindowsFormsApplication1.Form1.resources
+C:\Users\Jorge\AppData\Local\Temporary Projects\LINQWindowsFormsApplication1\obj\x86\Debug\LINQWindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Jorge\AppData\Local\Temporary Projects\LINQWindowsFormsApplication1\obj\x86\Debug\LINQWindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Jorge\AppData\Local\Temporary Projects\LINQWindowsFormsApplication1\obj\x86\Debug\LINQWindowsFormsApplication1.exe
+C:\Users\Jorge\AppData\Local\Temporary Projects\LINQWindowsFormsApplication1\obj\x86\Debug\LINQWindowsFormsApplication1.pdb
+C:\Users\Jorge\documents\visual studio 2010\Projects\LINQWindowsFormsApplication1\LINQWindowsFormsApplication1\obj\x86\Debug\LINQWindowsFormsApplication1.exe
+C:\Users\Jorge\documents\visual studio 2010\Projects\LINQWindowsFormsApplication1\LINQWindowsFormsApplication1\obj\x86\Debug\LINQWindowsFormsApplication1.pdb
+C:\Users\Jorge\documents\visual studio 2010\Projects\LINQWindowsFormsApplication1\LINQWindowsFormsApplication1\bin\Debug\LINQWindowsFormsApplication1.exe
+C:\Users\Jorge\documents\visual studio 2010\Projects\LINQWindowsFormsApplication1\LINQWindowsFormsApplication1\bin\Debug\LINQWindowsFormsApplication1.pdb
+C:\Users\Jorge\documents\visual studio 2010\Projects\LINQWindowsFormsApplication1\LINQWindowsFormsApplication1\obj\x86\Debug\LINQWindowsFormsApplication1.Form1.resources
+C:\Users\Jorge\documents\visual studio 2010\Projects\LINQWindowsFormsApplication1\LINQWindowsFormsApplication1\obj\x86\Debug\LINQWindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Jorge\documents\visual studio 2010\Projects\LINQWindowsFormsApplication1\LINQWindowsFormsApplication1\obj\x86\Debug\LINQWindowsFormsApplication1.csproj.GenerateResource.Cache

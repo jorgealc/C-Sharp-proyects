@@ -1,0 +1,15 @@
+C:\Users\Jorge\AppData\Local\Temporary Projects\BaseDeDatosWindowsForms\obj\x86\Debug\BaseDeDatosWindowsForms.Form1.resources
+C:\Users\Jorge\AppData\Local\Temporary Projects\BaseDeDatosWindowsForms\obj\x86\Debug\BaseDeDatosWindowsForms.Properties.Resources.resources
+C:\Users\Jorge\AppData\Local\Temporary Projects\BaseDeDatosWindowsForms\obj\x86\Debug\BaseDeDatosDataReaderWindowsForms.csproj.GenerateResource.Cache
+C:\Users\Jorge\AppData\Local\Temporary Projects\BaseDeDatosWindowsForms\bin\Debug\BaseDeDatosWindowsForms.exe
+C:\Users\Jorge\AppData\Local\Temporary Projects\BaseDeDatosWindowsForms\bin\Debug\BaseDeDatosWindowsForms.pdb
+C:\Users\Jorge\AppData\Local\Temporary Projects\BaseDeDatosWindowsForms\obj\x86\Debug\BaseDeDatosWindowsForms.exe
+C:\Users\Jorge\AppData\Local\Temporary Projects\BaseDeDatosWindowsForms\obj\x86\Debug\BaseDeDatosWindowsForms.pdb
+C:\Users\Jorge\documents\visual studio 2010\Projects\BaseDeDatosDataReaderWindowsForms\BaseDeDatosDataReaderWindowsForms\bin\Debug\BaseDeDatosDataReaderWindowsForms.exe
+C:\Users\Jorge\documents\visual studio 2010\Projects\BaseDeDatosDataReaderWindowsForms\BaseDeDatosDataReaderWindowsForms\bin\Debug\BaseDeDatosDataReaderWindowsForms.pdb
+C:\Users\Jorge\documents\visual studio 2010\Projects\BaseDeDatosDataReaderWindowsForms\BaseDeDatosDataReaderWindowsForms\obj\x86\Debug\BaseDeDatosWindowsForms.Form1.resources
+C:\Users\Jorge\documents\visual studio 2010\Projects\BaseDeDatosDataReaderWindowsForms\BaseDeDatosDataReaderWindowsForms\obj\x86\Debug\BaseDeDatosWindowsForms.Properties.Resources.resources
+C:\Users\Jorge\documents\visual studio 2010\Projects\BaseDeDatosDataReaderWindowsForms\BaseDeDatosDataReaderWindowsForms\obj\x86\Debug\BaseDeDatosDataReaderWindowsForms.csproj.GenerateResource.Cache
+C:\Users\Jorge\documents\visual studio 2010\Projects\BaseDeDatosDataReaderWindowsForms\BaseDeDatosDataReaderWindowsForms\obj\x86\Debug\BaseDeDatosDataReaderWindowsForms.exe
+C:\Users\Jorge\documents\visual studio 2010\Projects\BaseDeDatosDataReaderWindowsForms\BaseDeDatosDataReaderWindowsForms\obj\x86\Debug\BaseDeDatosDataReaderWindowsForms.pdb
+C:\Users\Jorge\Documents\Visual Studio 2010\Projects\BaseDeDatosDataReaderWindowsForms\BaseDeDatosDataReaderWindowsForms\obj\x86\Debug\BaseDeDatosDataReaderWindowsForms.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\Jorge\Documents\Visual Studio 2010\Projects\BaseDeDatos\BaseDeDatos\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Jorge\Documents\Visual Studio 2010\Projects\BaseDeDatos\BaseDeDatos\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Jorge\Documents\Visual Studio 2010\Projects\BaseDeDatos\BaseDeDatos\obj\x86\Debug\BaseDeDatos.csproj.GenerateResource.Cache
+C:\Users\Jorge\Documents\Visual Studio 2010\Projects\BaseDeDatos\BaseDeDatos\bin\Debug\BaseDeDatos.exe
+C:\Users\Jorge\Documents\Visual Studio 2010\Projects\BaseDeDatos\BaseDeDatos\bin\Debug\BaseDeDatos.pdb
+C:\Users\Jorge\Documents\Visual Studio 2010\Projects\BaseDeDatos\BaseDeDatos\obj\x86\Debug\BaseDeDatos.exe
+C:\Users\Jorge\Documents\Visual Studio 2010\Projects\BaseDeDatos\BaseDeDatos\obj\x86\Debug\BaseDeDatos.pdb

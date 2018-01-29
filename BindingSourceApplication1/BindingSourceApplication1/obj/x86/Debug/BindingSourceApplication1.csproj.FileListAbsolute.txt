@@ -1,0 +1,13 @@
+C:\Users\Jorge\AppData\Local\Temporary Projects\BindingSourceApplication1\obj\x86\Debug\BindingSourceApplication1.Form1.resources
+C:\Users\Jorge\AppData\Local\Temporary Projects\BindingSourceApplication1\obj\x86\Debug\BindingSourceApplication1.Properties.Resources.resources
+C:\Users\Jorge\AppData\Local\Temporary Projects\BindingSourceApplication1\obj\x86\Debug\BindingSourceApplication1.csproj.GenerateResource.Cache
+C:\Users\Jorge\documents\visual studio 2010\Projects\BindingSourceApplication1\BindingSourceApplication1\obj\x86\Debug\BindingSourceApplication1.Form1.resources
+C:\Users\Jorge\documents\visual studio 2010\Projects\BindingSourceApplication1\BindingSourceApplication1\obj\x86\Debug\BindingSourceApplication1.Properties.Resources.resources
+C:\Users\Jorge\documents\visual studio 2010\Projects\BindingSourceApplication1\BindingSourceApplication1\obj\x86\Debug\BindingSourceApplication1.csproj.GenerateResource.Cache
+C:\Users\Jorge\documents\visual studio 2010\Projects\BindingSourceApplication1\BindingSourceApplication1\bin\Debug\BindingSourceApplication1.exe
+C:\Users\Jorge\documents\visual studio 2010\Projects\BindingSourceApplication1\BindingSourceApplication1\bin\Debug\BindingSourceApplication1.pdb
+C:\Users\Jorge\documents\visual studio 2010\Projects\BindingSourceApplication1\BindingSourceApplication1\obj\x86\Debug\BindingSourceApplication1.exe
+C:\Users\Jorge\documents\visual studio 2010\Projects\BindingSourceApplication1\BindingSourceApplication1\obj\x86\Debug\BindingSourceApplication1.pdb
+C:\Users\Jorge\Documents\Visual Studio 2010\Projects\BindingSourceApplication1\BindingSourceApplication1\obj\x86\Debug\BindingSourceApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Jorge\Documents\Visual Studio 2010\Projects\BindingSourceApplication1\BindingSourceApplication1\bin\Debug\Equin.ApplicationFramework.BindingListView.dll
+C:\Users\Jorge\Documents\Visual Studio 2010\Projects\BindingSourceApplication1\BindingSourceApplication1\bin\Debug\Equin.ApplicationFramework.BindingListView.pdb

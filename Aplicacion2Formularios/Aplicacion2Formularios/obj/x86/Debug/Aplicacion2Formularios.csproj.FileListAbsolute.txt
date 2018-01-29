@@ -1,0 +1,15 @@
+C:\Users\Jorge\AppData\Local\Temporary Projects\Aplicacion2Formularios\bin\Debug\Aplicacion2Formularios.exe
+C:\Users\Jorge\AppData\Local\Temporary Projects\Aplicacion2Formularios\bin\Debug\Aplicacion2Formularios.pdb
+C:\Users\Jorge\AppData\Local\Temporary Projects\Aplicacion2Formularios\obj\x86\Debug\Aplicacion2Formularios.Form1.resources
+C:\Users\Jorge\AppData\Local\Temporary Projects\Aplicacion2Formularios\obj\x86\Debug\Aplicacion2Formularios.Properties.Resources.resources
+C:\Users\Jorge\AppData\Local\Temporary Projects\Aplicacion2Formularios\obj\x86\Debug\Aplicacion2Formularios.csproj.GenerateResource.Cache
+C:\Users\Jorge\AppData\Local\Temporary Projects\Aplicacion2Formularios\obj\x86\Debug\Aplicacion2Formularios.exe
+C:\Users\Jorge\AppData\Local\Temporary Projects\Aplicacion2Formularios\obj\x86\Debug\Aplicacion2Formularios.pdb
+C:\Users\Jorge\Documents\Visual Studio 2010\Projects\Aplicacion2Formularios\Aplicacion2Formularios\obj\x86\Debug\Aplicacion2Formularios.exe
+C:\Users\Jorge\Documents\Visual Studio 2010\Projects\Aplicacion2Formularios\Aplicacion2Formularios\obj\x86\Debug\Aplicacion2Formularios.pdb
+C:\Users\Jorge\Documents\Visual Studio 2010\Projects\Aplicacion2Formularios\Aplicacion2Formularios\bin\Debug\Aplicacion2Formularios.exe
+C:\Users\Jorge\Documents\Visual Studio 2010\Projects\Aplicacion2Formularios\Aplicacion2Formularios\bin\Debug\Aplicacion2Formularios.pdb
+C:\Users\Jorge\Documents\Visual Studio 2010\Projects\Aplicacion2Formularios\Aplicacion2Formularios\obj\x86\Debug\Aplicacion2Formularios.Form1.resources
+C:\Users\Jorge\Documents\Visual Studio 2010\Projects\Aplicacion2Formularios\Aplicacion2Formularios\obj\x86\Debug\Aplicacion2Formularios.Properties.Resources.resources
+C:\Users\Jorge\Documents\Visual Studio 2010\Projects\Aplicacion2Formularios\Aplicacion2Formularios\obj\x86\Debug\Aplicacion2Formularios.csproj.GenerateResource.Cache
+C:\Users\Jorge\Documents\Visual Studio 2010\Projects\Aplicacion2Formularios\Aplicacion2Formularios\obj\x86\Debug\Aplicacion2Formularios.csprojResolveAssemblyReference.cache
